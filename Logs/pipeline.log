@@ -1,0 +1,149 @@
+2026-06-01 17:44:43,136 INFO Reading Excel file: C:\Users\Chandra Shekar\OneDrive\Desktop\NeoStats_Assignment\Data\USECASE - Data Engineering.xlsx
+2026-06-01 17:44:44,353 INFO Loaded sheets: product_details (10 rows), retail_data1 (4243 rows), retail_data2 (4251 rows)
+2026-06-01 17:44:44,354 INFO Merging retail_data1 and retail_data2
+2026-06-01 17:44:44,356 INFO Merged retail data contains 8494 rows
+2026-06-01 17:44:44,357 INFO Standardizing product names using product_details
+2026-06-01 17:44:44,364 INFO Standardizing category names
+2026-06-01 17:44:44,379 INFO Converting transaction_date to datetime
+2026-06-01 17:45:15,418 INFO Reading Excel file: C:\Users\Chandra Shekar\OneDrive\Desktop\NeoStats_Assignment\Data\USECASE - Data Engineering.xlsx
+2026-06-01 17:45:16,517 INFO Loaded sheets: product_details (10 rows), retail_data1 (4243 rows), retail_data2 (4251 rows)
+2026-06-01 17:45:16,517 INFO Merging retail_data1 and retail_data2
+2026-06-01 17:45:16,519 INFO Merged retail data contains 8494 rows
+2026-06-01 17:45:16,520 INFO Standardizing product names using product_details
+2026-06-01 17:45:16,523 INFO Standardizing category names
+2026-06-01 17:45:16,536 INFO Converting transaction_date to datetime
+2026-06-01 17:45:38,136 INFO Reading Excel file: C:\Users\Chandra Shekar\OneDrive\Desktop\NeoStats_Assignment\Data\USECASE - Data Engineering.xlsx
+2026-06-01 17:45:44,758 INFO Reading Excel file: C:\Users\Chandra Shekar\OneDrive\Desktop\NeoStats_Assignment\Data\USECASE - Data Engineering.xlsx
+2026-06-01 17:45:45,897 INFO Loaded sheets: product_details (10 rows), retail_data1 (4243 rows), retail_data2 (4251 rows)
+2026-06-01 17:45:45,898 INFO Merging retail_data1 and retail_data2
+2026-06-01 17:45:45,900 INFO Merged retail data contains 8494 rows
+2026-06-01 17:45:45,900 INFO Standardizing product names using product_details
+2026-06-01 17:45:45,906 INFO Standardizing category names
+2026-06-01 17:45:45,921 INFO Converting transaction_date to datetime
+2026-06-01 17:47:37,952 INFO Reading Excel file: C:\Users\Chandra Shekar\OneDrive\Desktop\NeoStats_Assignment\Data\USECASE - Data Engineering.xlsx
+2026-06-01 17:47:39,056 INFO Loaded sheets: product_details (10 rows), retail_data1 (4243 rows), retail_data2 (4251 rows)
+2026-06-01 17:47:39,056 INFO Merging retail_data1 and retail_data2
+2026-06-01 17:47:39,059 INFO Merged retail data contains 8494 rows
+2026-06-01 17:47:39,059 INFO Standardizing product names using product_details
+2026-06-01 17:47:39,062 INFO Standardizing category names
+2026-06-01 17:47:39,077 INFO Converting transaction_date to datetime
+2026-06-01 17:47:39,081 INFO Found 0 invalid or unparseable transaction_date values
+2026-06-01 17:47:39,082 INFO Filling missing prices from product_details
+2026-06-01 17:47:39,143 INFO Missing price values before=809, after=0
+2026-06-01 17:47:39,144 INFO Checking for duplicate transaction IDs
+2026-06-01 17:47:39,629 INFO Found 988 duplicate transaction_id rows
+2026-06-01 17:47:39,630 INFO Validating retail data
+2026-06-01 17:47:39,633 INFO Validation summary:
+2026-06-01 17:47:39,633 INFO   Invalid quantity: 93
+2026-06-01 17:47:39,633 INFO   Invalid price: 0
+2026-06-01 17:47:39,634 INFO   Missing product_id match: 0
+2026-06-01 17:47:39,634 INFO   Missing transaction_id: 0
+2026-06-01 17:47:39,635 WARNING Found 93 invalid rows
+2026-06-01 17:47:39,640 WARNING Exported invalid records to C:\Users\Chandra Shekar\OneDrive\Desktop\NeoStats_Assignment\Output\invalid_records.csv
+2026-06-01 17:47:39,640 INFO Masking PII columns
+2026-06-01 17:47:39,652 INFO Creating Revenue column
+2026-06-01 17:47:39,654 INFO Generating KPI summary
+2026-06-01 17:47:39,667 INFO Exporting cleaned retail data to C:\Users\Chandra Shekar\OneDrive\Desktop\NeoStats_Assignment\Output\cleaned_retail_data.csv
+2026-06-01 17:47:39,723 INFO Exporting KPI summary to C:\Users\Chandra Shekar\OneDrive\Desktop\NeoStats_Assignment\Output\kpi_summary.csv
+2026-06-01 17:47:39,728 INFO Exporting duplicate transaction report to C:\Users\Chandra Shekar\OneDrive\Desktop\NeoStats_Assignment\Output\duplicate_transactions.csv
+2026-06-01 17:47:39,737 INFO Retail pipeline completed successfully
+2026-06-01 17:57:14,584 INFO Reading Excel file: C:\Users\Chandra Shekar\OneDrive\Desktop\NeoStats_Assignment\Data\USECASE - Data Engineering.xlsx
+2026-06-01 17:57:15,655 INFO Loaded sheets: product_details (10 rows), retail_data1 (4243 rows), retail_data2 (4251 rows)
+2026-06-01 17:57:15,655 INFO Merging retail_data1 and retail_data2
+2026-06-01 17:57:15,657 INFO Merged retail data contains 8494 rows
+2026-06-01 17:57:15,657 INFO Standardizing product names using product_details
+2026-06-01 17:57:15,660 INFO Standardizing category names
+2026-06-01 17:57:15,674 INFO Converting transaction_date to datetime
+2026-06-01 17:57:15,678 INFO Found 0 invalid or unparseable transaction_date values
+2026-06-01 17:57:15,678 INFO Filling missing prices from product_details
+2026-06-01 17:57:15,739 INFO Missing price values before=809, after=0
+2026-06-01 17:57:15,739 INFO Checking for duplicate transaction IDs
+2026-06-01 17:57:16,221 INFO Found 988 duplicate transaction_id rows
+2026-06-01 17:57:16,221 INFO Validating retail data
+2026-06-01 17:57:16,223 INFO Validation summary:
+2026-06-01 17:57:16,224 INFO   Invalid quantity: 93
+2026-06-01 17:57:16,224 INFO   Invalid price: 0
+2026-06-01 17:57:16,224 INFO   Missing product_id match: 0
+2026-06-01 17:57:16,224 INFO   Missing transaction_id: 0
+2026-06-01 17:57:16,224 WARNING Found 93 invalid rows
+2026-06-01 17:57:16,230 WARNING Exported invalid records to C:\Users\Chandra Shekar\OneDrive\Desktop\NeoStats_Assignment\Output\invalid_records.csv
+2026-06-01 17:57:16,231 INFO Masking PII columns
+2026-06-01 17:57:16,242 INFO Creating Revenue column
+2026-06-01 17:57:16,243 INFO Generating KPI summary
+2026-06-01 17:57:16,256 INFO Exporting cleaned retail data to C:\Users\Chandra Shekar\OneDrive\Desktop\NeoStats_Assignment\Output\cleaned_retail_data.csv
+2026-06-01 17:57:16,315 INFO Exporting KPI summary to C:\Users\Chandra Shekar\OneDrive\Desktop\NeoStats_Assignment\Output\kpi_summary.csv
+2026-06-01 17:57:16,316 INFO Exporting duplicate transaction report to C:\Users\Chandra Shekar\OneDrive\Desktop\NeoStats_Assignment\Output\duplicate_transactions.csv
+2026-06-01 17:57:16,326 INFO Exporting revenue comparison report to C:\Users\Chandra Shekar\OneDrive\Desktop\NeoStats_Assignment\Output\revenue_comparison.csv
+2026-06-01 17:57:16,327 INFO Resolving duplicate transaction IDs by business rule
+2026-06-01 17:57:20,818 INFO Duplicate resolution removed 494 rows; 8000 rows remain after deduplication
+2026-06-01 17:57:20,818 INFO Masking PII columns
+2026-06-01 17:57:20,829 INFO Creating Revenue column
+2026-06-01 17:57:20,830 INFO Generating KPI summary
+2026-06-01 17:59:01,428 INFO Reading Excel file: C:\Users\Chandra Shekar\OneDrive\Desktop\NeoStats_Assignment\Data\USECASE - Data Engineering.xlsx
+2026-06-01 17:59:02,506 INFO Loaded sheets: product_details (10 rows), retail_data1 (4243 rows), retail_data2 (4251 rows)
+2026-06-01 17:59:02,506 INFO Merging retail_data1 and retail_data2
+2026-06-01 17:59:02,508 INFO Merged retail data contains 8494 rows
+2026-06-01 17:59:02,508 INFO Standardizing product names using product_details
+2026-06-01 17:59:02,512 INFO Standardizing category names
+2026-06-01 17:59:02,527 INFO Converting transaction_date to datetime
+2026-06-01 17:59:02,530 INFO Found 0 invalid or unparseable transaction_date values
+2026-06-01 17:59:02,530 INFO Filling missing prices from product_details
+2026-06-01 17:59:02,593 INFO Missing price values before=809, after=0
+2026-06-01 17:59:02,593 INFO Checking for duplicate transaction IDs
+2026-06-01 17:59:03,094 INFO Found 988 duplicate transaction_id rows
+2026-06-01 17:59:03,094 INFO Validating retail data
+2026-06-01 17:59:03,096 INFO Validation summary:
+2026-06-01 17:59:03,097 INFO   Invalid quantity: 93
+2026-06-01 17:59:03,097 INFO   Invalid price: 0
+2026-06-01 17:59:03,097 INFO   Missing product_id match: 0
+2026-06-01 17:59:03,097 INFO   Missing transaction_id: 0
+2026-06-01 17:59:03,097 WARNING Found 93 invalid rows
+2026-06-01 17:59:03,103 WARNING Exported invalid records to C:\Users\Chandra Shekar\OneDrive\Desktop\NeoStats_Assignment\Output\invalid_records.csv
+2026-06-01 17:59:03,104 INFO Masking PII columns
+2026-06-01 17:59:03,115 INFO Creating Revenue column
+2026-06-01 17:59:03,115 INFO Generating KPI summary
+2026-06-01 17:59:03,127 INFO Exporting cleaned retail data to C:\Users\Chandra Shekar\OneDrive\Desktop\NeoStats_Assignment\Output\cleaned_retail_data.csv
+2026-06-01 17:59:03,185 INFO Exporting KPI summary to C:\Users\Chandra Shekar\OneDrive\Desktop\NeoStats_Assignment\Output\kpi_summary.csv
+2026-06-01 17:59:03,187 INFO Exporting duplicate transaction report to C:\Users\Chandra Shekar\OneDrive\Desktop\NeoStats_Assignment\Output\duplicate_transactions.csv
+2026-06-01 17:59:03,194 INFO Exporting revenue comparison report to C:\Users\Chandra Shekar\OneDrive\Desktop\NeoStats_Assignment\Output\revenue_comparison.csv
+2026-06-01 17:59:03,196 INFO Resolving duplicate transaction IDs by business rule
+2026-06-01 17:59:07,605 INFO Duplicate resolution removed 494 rows; 8000 rows remain after deduplication
+2026-06-01 17:59:07,605 INFO Masking PII columns
+2026-06-01 17:59:07,615 INFO Creating Revenue column
+2026-06-01 17:59:07,617 INFO Generating KPI summary
+2026-06-01 18:01:01,873 INFO Reading Excel file: C:\Users\Chandra Shekar\OneDrive\Desktop\NeoStats_Assignment\Data\USECASE - Data Engineering.xlsx
+2026-06-01 18:01:02,925 INFO Loaded sheets: product_details (10 rows), retail_data1 (4243 rows), retail_data2 (4251 rows)
+2026-06-01 18:01:02,925 INFO Merging retail_data1 and retail_data2
+2026-06-01 18:01:02,927 INFO Merged retail data contains 8494 rows
+2026-06-01 18:01:02,927 INFO Standardizing product names using product_details
+2026-06-01 18:01:02,930 INFO Standardizing category names
+2026-06-01 18:01:02,944 INFO Converting transaction_date to datetime
+2026-06-01 18:01:02,947 INFO Found 0 invalid or unparseable transaction_date values
+2026-06-01 18:01:02,947 INFO Filling missing prices from product_details
+2026-06-01 18:01:03,012 INFO Missing price values before=809, after=0
+2026-06-01 18:01:03,012 INFO Checking for duplicate transaction IDs
+2026-06-01 18:01:03,480 INFO Found 988 duplicate transaction_id rows
+2026-06-01 18:01:03,480 INFO Validating retail data
+2026-06-01 18:01:03,482 INFO Validation summary:
+2026-06-01 18:01:03,484 INFO   Invalid quantity: 93
+2026-06-01 18:01:03,484 INFO   Invalid price: 0
+2026-06-01 18:01:03,484 INFO   Missing product_id match: 0
+2026-06-01 18:01:03,484 INFO   Missing transaction_id: 0
+2026-06-01 18:01:03,484 WARNING Found 93 invalid rows
+2026-06-01 18:01:03,489 WARNING Exported invalid records to C:\Users\Chandra Shekar\OneDrive\Desktop\NeoStats_Assignment\Output\invalid_records.csv
+2026-06-01 18:01:03,490 INFO Masking PII columns
+2026-06-01 18:01:03,501 INFO Creating Revenue column
+2026-06-01 18:01:03,502 INFO Generating KPI summary
+2026-06-01 18:01:03,513 INFO Exporting cleaned retail data to C:\Users\Chandra Shekar\OneDrive\Desktop\NeoStats_Assignment\Output\cleaned_retail_data.csv
+2026-06-01 18:01:03,568 INFO Exporting KPI summary to C:\Users\Chandra Shekar\OneDrive\Desktop\NeoStats_Assignment\Output\kpi_summary.csv
+2026-06-01 18:01:03,570 INFO Exporting duplicate transaction report to C:\Users\Chandra Shekar\OneDrive\Desktop\NeoStats_Assignment\Output\duplicate_transactions.csv
+2026-06-01 18:01:03,580 INFO Exporting revenue comparison report to C:\Users\Chandra Shekar\OneDrive\Desktop\NeoStats_Assignment\Output\revenue_comparison.csv
+2026-06-01 18:01:03,582 INFO Resolving duplicate transaction IDs by business rule
+2026-06-01 18:01:12,093 INFO Duplicate resolution removed 494 rows; 8000 rows remain after deduplication
+2026-06-01 18:01:12,093 INFO Masking PII columns
+2026-06-01 18:01:12,103 INFO Creating Revenue column
+2026-06-01 18:01:12,104 INFO Generating KPI summary
+2026-06-01 18:01:12,116 INFO Exporting cleaned retail data v2 to C:\Users\Chandra Shekar\OneDrive\Desktop\NeoStats_Assignment\Output\cleaned_retail_data_v2.csv
+2026-06-01 18:01:12,165 INFO Exporting KPI summary v2 to C:\Users\Chandra Shekar\OneDrive\Desktop\NeoStats_Assignment\Output\kpi_summary_v2.csv
+2026-06-01 18:01:12,168 INFO Revenue before duplicate handling: 1233270150.0, after: 1158300920.0, difference: -74969230.0
+2026-06-01 18:01:12,169 INFO Retail pipeline completed successfully

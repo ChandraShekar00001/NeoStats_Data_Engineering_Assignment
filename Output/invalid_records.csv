@@ -1,0 +1,94 @@
+transaction_id,customer_id,customer_name,product_id,price,product_name,category,purchase_location,city,transaction_date,quantity,payment_method,discount,email,phone,payment_status
+33,50,Stacey Henderson,104,8000.0,Shoes,Clothing,online,Mumbai,2025-06-14,-1,Card,0.4,Stacey33@gmail.com,6033182385,successful
+74,907,Jeffrey Mccall,102,70000.0,Phone,Electronics,online,Hyderabad,2025-05-26,0,Card,0.4,Jeffrey63@gmail.com,6709574650,successful
+76,335,Jacob Evans,103,1300.0,Shirt,Clothing,offline,Mumbai,2026-04-11,-2,NetBanking,0.35,JacobEvans@yahoo.com,6483959310,successful
+77,780,Elizabeth Miller,110,45000.0,Microwave,Home Appliances,offline,Delhi,2025-09-14,0,Card,0.3,ElizabethMiller@yahoo.com,8279569798,successful
+97,723,Christopher Walter,106,80000.0,Sofa,Furniture,offline,Hyderabad,2026-02-27,0,NetBanking,0.15,ChristopherWalter@gmail.com,9036645707,successful
+133,633,Julie Jackson,103,1300.0,Shirt,Clothing,offline,Delhi,2025-07-13,-1,UPI,0.2,Julie50@gmail.com,7168243701,successful
+339,758,Nichole Jones,108,15000.0,Mixer Grinder,Home Appliances,offline,Chennai,2025-10-07,0,UPI,0.3,NicholeJones@yahoo.com,6141266772,successful
+624,925,Steve Ayala,101,250000.0,Laptop,Electronics,offline,Hyderabad,2025-07-14,0,NetBanking,0.4,SteveAyala@gmail.com,9576287018,successful
+674,826,Ryan Wade,102,70000.0,Phone,Electronics,online,Mumbai,2026-01-07,-1,Cash,0.4,RyanWade@outlook.com,7368883000,successful
+841,725,Jody Martinez,105,45000.0,TV,Electronics,online,Bangalore,2025-04-19,0,NetBanking,0.4,JodyMartinez@gmail.com,7989096889,successful
+885,821,Margaret Parker,108,15000.0,Mixer Grinder,Home Appliances,online,Delhi,2026-03-25,-1,NetBanking,0.25,Margaret32@gmail.com,9826127968,successful
+921,324,Diana King,109,65000.0,Refrigerator,Home Appliances,offline,Chennai,2025-09-24,-2,Card,0.2,DianaKing@gmail.com,9014640716,successful
+926,331,Jordan May,106,80000.0,Sofa,Furniture,offline,Chennai,2026-01-24,-1,Cash,0.05,JordanMay@gmail.com,9654448000,successful
+1168,274,Joseph Parker,109,65000.0,Refrigerator,Home Appliances,online,Bangalore,2026-03-20,-1,Cash,0.05,JosephParker@gmail.com,7902179206,successful
+1219,856,Suzanne Carroll,101,250000.0,Laptop,Electronics,online,Bangalore,2025-08-13,-1,Cash,0.2,SuzanneCarroll@outlook.com,8949371008,successful
+1268,224,Benjamin Reyes,101,250000.0,Laptop,Electronics,offline,Mumbai,2025-10-07,-2,NetBanking,0.2,Benjamin12@gmail.com,7758231609,successful
+1273,253,Emily Rodriguez,101,250000.0,Laptop,Electronics,offline,Delhi,2025-03-06,-2,Cash,0.35,EmilyRodriguez@gmail.com,9526826545,successful
+1413,145,Michael Hendrix,109,65000.0,Refrigerator,Home Appliances,offline,Delhi,2025-06-04,-2,UPI,0.35,MichaelHendrix@outlook.com,6964491396,successful
+1431,472,Christian Jennings,105,45000.0,TV,Electronics,online,Chennai,2026-02-28,-1,UPI,0.25,ChristianJennings@outlook.com,6788861240,successful
+1561,666,Emily Griffith,108,15000.0,Mixer Grinder,Home Appliances,online,Mumbai,2025-05-24,-1,UPI,0.35,EmilyGriffith@gmail.com,9486424680,successful
+1778,217,Eric Cross,109,65000.0,Refrigerator,Home Appliances,online,Bangalore,2025-12-04,0,UPI,0.25,Eric39@gmail.com,6551844796,successful
+1842,919,Stephanie White,105,45000.0,TV,Electronics,offline,Mumbai,2025-10-31,0,NetBanking,0.4,StephanieWhite@gmail.com,7502238517,successful
+1893,552,Anthony Cox,101,250000.0,Laptop,Electronics,online,Hyderabad,2025-11-06,0,Card,0.4,AnthonyCox@gmail.com,7725127392,successful
+1933,992,William Rose,109,65000.0,Refrigerator,Home Appliances,offline,Hyderabad,2025-10-16,-1,NetBanking,0.25,William30@gmail.com,6993050906,successful
+2164,409,Elizabeth Watson,101,250000.0,Laptop,Electronics,offline,Bangalore,2025-09-02,-2,NetBanking,0.35,ElizabethWatson@outlook.com,6182625929,successful
+2411,231,Jason Smith,110,45000.0,Microwave,Home Appliances,offline,Hyderabad,2026-08-02,-2,NetBanking,0.4,Jason71@gmail.com,7793301499,successful
+2439,764,Jody Gardner,110,45000.0,Microwave,Home Appliances,online,Mumbai,2025-06-15,-2,Card,0.05,JodyGardner@outlook.com,8683344567,successful
+2469,916,Betty Mcdaniel,103,1300.0,Shirt,Clothing,online,Chennai,2025-06-12,-1,UPI,0.2,BettyMcdaniel@yahoo.com,7323816268,successful
+2505,219,Alexander Phillips,103,1300.0,Shirt,Clothing,online,Mumbai,2025-06-24,-2,Cash,0.1,Alexander92@gmail.com,7235649492,successful
+2548,975,Jacqueline Doyle,103,1300.0,Shirt,Clothing,offline,Hyderabad,2026-03-31,-1,UPI,0.25,JacquelineDoyle@outlook.com,8114950490,successful
+2819,594,Matthew Miranda,106,80000.0,Sofa,Furniture,offline,Mumbai,2026-02-02,-2,UPI,0.3,MatthewMiranda@gmail.com,7462908083,successful
+3007,454,Larry Perkins,101,250000.0,Laptop,Electronics,offline,Mumbai,2025-12-31,-2,UPI,0.3,LarryPerkins@yahoo.com,7903065336,successful
+3099,381,Melissa Garza,110,45000.0,Microwave,Home Appliances,offline,Hyderabad,2026-03-12,-1,Card,0.15,MelissaGarza@gmail.com,6928004306,successful
+3108,39,Megan Jones,109,65000.0,Refrigerator,Home Appliances,offline,Hyderabad,2026-03-30,0,UPI,0.05,MeganJones@gmail.com,7279430686,successful
+3111,929,Charles Key,108,15000.0,Mixer Grinder,Home Appliances,offline,Delhi,2025-10-10,0,UPI,0.4,Charles2@gmail.com,7319365346,successful
+3175,418,Michael Knapp,101,250000.0,Laptop,Electronics,online,Hyderabad,2025-06-15,0,NetBanking,0.2,MichaelKnapp@gmail.com,9322699274,successful
+3227,671,Sarah Frederick,107,50000.0,Dining Table,Furniture,offline,Chennai,2026-01-27,-2,Cash,0.25,SarahFrederick@outlook.com,6659595538,successful
+3227,671,Sarah Frederick,107,50000.0,Dining Table,Furniture,offline,Chennai,2026-01-27,-2,Cash,0.25,SarahFrederick@outlook.com,6659595538,failed
+3250,156,Sara Romero,106,80000.0,Sofa,Furniture,offline,Chennai,2025-07-10,-2,NetBanking,0.3,SaraRomero@gmail.com,9107680162,successful
+3277,527,Terri Williams,106,80000.0,Sofa,Furniture,online,Delhi,2026-12-01,0,Card,0.1,TerriWilliams@outlook.com,7745141462,successful
+3355,959,Andrea Bailey,109,65000.0,Refrigerator,Home Appliances,online,Chennai,2026-02-05,-2,Card,0.3,AndreaBailey@gmail.com,6729410607,successful
+3442,3,Marc Carter,103,1300.0,Shirt,Clothing,online,Delhi,2025-06-24,0,UPI,0.3,MarcCarter@yahoo.com,8087194372,successful
+3494,536,Nicole Steele,102,70000.0,Phone,Electronics,offline,Delhi,2025-07-06,-2,NetBanking,0.2,Nicole23@gmail.com,7605303854,successful
+3521,528,Kerri Rodriguez,110,45000.0,Microwave,Home Appliances,offline,Chennai,2025-05-11,-1,Cash,0.4,Kerri90@gmail.com,7758070493,successful
+3521,528,Kerri Rodriguez,110,45000.0,Microwave,Home Appliances,offline,Chennai,2025-05-11,-1,Cash,0.4,Kerri90@gmail.com,7758070493,failed
+3630,192,Nina Robinson,103,1300.0,Shirt,Clothing,online,Bangalore,2025-06-18,0,Card,0.05,Nina44@gmail.com,6234197116,successful
+3711,540,Amy Cruz,101,250000.0,Laptop,Electronics,offline,Delhi,2025-06-24,-1,Cash,0.4,AmyCruz@gmail.com,7034946867,successful
+3747,860,Christine Maddox,106,80000.0,Sofa,Furniture,online,Mumbai,2026-03-24,0,NetBanking,0.4,ChristineMaddox@outlook.com,6583010175,successful
+3756,951,Richard Miller,101,250000.0,Laptop,Electronics,offline,Mumbai,2026-02-07,-2,Cash,0.25,RichardMiller@yahoo.com,7109726379,successful
+3971,387,Kenneth Rocha,103,1300.0,Shirt,Clothing,offline,Mumbai,2025-05-01,-2,Card,0.3,KennethRocha@outlook.com,6385183283,successful
+4383,1882,Mary Boyer,102,70000.0,Phone,Electronics,offline,Mumbai,2025-05-08,-1,Card,0.25,MaryBoyer@gmail.com,7406569503,successful
+4387,1241,Maureen Daniels,108,15000.0,Mixer Grinder,Home Appliances,online,Bangalore,2025-12-26,-2,NetBanking,0.3,MaureenDaniels@yahoo.com,6886038741,successful
+4543,1196,Ashley Ortiz,106,80000.0,Sofa,Furniture,offline,Bangalore,2025-12-28,-1,NetBanking,0.1,AshleyOrtiz@gmail.com,9442137093,successful
+4552,1473,Ashley Dawson,105,45000.0,TV,Electronics,online,Delhi,2025-07-20,0,UPI,0.1,Ashley6@gmail.com,7681407209,successful
+4555,1699,Benjamin Butler,103,1300.0,Shirt,Clothing,online,Hyderabad,2026-01-11,-2,NetBanking,0.35,BenjaminButler@gmail.com,8551100147,successful
+4623,1159,Steven Jackson,108,15000.0,Mixer Grinder,Home Appliances,online,Chennai,2026-03-25,-2,NetBanking,0.3,StevenJackson@outlook.com,7121746333,successful
+4646,1862,Sydney Love,103,1300.0,Shirt,Clothing,offline,Hyderabad,2026-01-13,-2,NetBanking,0.15,Sydney27@gmail.com,8272196396,successful
+4711,1757,James Williams,107,50000.0,Dining Table,Furniture,offline,Chennai,2025-07-31,-2,UPI,0.1,JamesWilliams@yahoo.com,6526937159,successful
+4778,1039,Jessica Powell,107,50000.0,Dining Table,Furniture,offline,Mumbai,2025-06-30,0,Cash,0.2,JessicaPowell@outlook.com,6368571315,successful
+4778,1039,Jessica Powell,107,50000.0,Dining Table,Furniture,offline,Mumbai,2025-06-30,0,Cash,0.2,JessicaPowell@outlook.com,6368571315,failed
+4899,1611,Matthew Deleon,107,50000.0,Dining Table,Furniture,online,Delhi,2025-10-02,0,NetBanking,0.3,MatthewDeleon@outlook.com,9564173381,successful
+4970,1418,Willie Gonzalez,110,45000.0,Microwave,Home Appliances,offline,Hyderabad,2026-04-01,-2,UPI,0.2,Willie40@gmail.com,7804283391,successful
+5103,1475,Jeremiah Jensen,104,8000.0,Shoes,Clothing,online,Delhi,2026-02-07,0,UPI,0.3,Jeremiah94@gmail.com,8728285561,successful
+5103,1475,Jeremiah Jensen,104,8000.0,Shoes,Clothing,online,Delhi,2026-02-07,0,UPI,0.3,Jeremiah94@gmail.com,8728285561,failed
+5177,1280,Sara Young,106,80000.0,Sofa,Furniture,offline,Chennai,2025-04-26,-2,Card,0.2,SaraYoung@gmail.com,6447710430,successful
+5326,1489,Kevin Hall,109,65000.0,Refrigerator,Home Appliances,online,Hyderabad,2025-04-16,0,Cash,0.1,KevinHall@yahoo.com,6888591713,successful
+5344,1153,Thomas Sanchez,103,1300.0,Shirt,Clothing,online,Mumbai,2026-01-21,-2,Cash,0.35,ThomasSanchez@gmail.com,8453332082,successful
+5532,1405,Victoria Castaneda,109,65000.0,Refrigerator,Home Appliances,offline,Hyderabad,2026-12-04,-1,Cash,0.1,VictoriaCastaneda@yahoo.com,7139968787,successful
+5556,1071,Sergio Peterson,102,70000.0,Phone,Electronics,offline,Bangalore,2025-05-09,-2,UPI,0.25,SergioPeterson@gmail.com,8545411613,successful
+5656,1031,Daniel Reyes,105,45000.0,TV,Electronics,offline,Delhi,2025-02-09,-1,Card,0.25,DanielReyes@outlook.com,6671107998,successful
+5656,1031,Daniel Reyes,105,45000.0,TV,Electronics,offline,Delhi,2025-02-09,-1,Card,0.25,DanielReyes@outlook.com,6671107998,failed
+5745,1317,Kathleen Ferrell,101,250000.0,Laptop,Electronics,offline,Delhi,2025-09-08,-2,NetBanking,0.05,Kathleen12@gmail.com,8418142336,successful
+6018,1929,Elizabeth Drake,109,65000.0,Refrigerator,Home Appliances,online,Chennai,2026-11-02,0,UPI,0.25,ElizabethDrake@yahoo.com,8567534125,successful
+6170,1009,Stephanie Roy,101,250000.0,Laptop,Electronics,online,Hyderabad,2025-06-22,0,NetBanking,0.1,StephanieRoy@yahoo.com,6632588984,successful
+6194,1052,Christopher Phillips,109,65000.0,Refrigerator,Home Appliances,online,Bangalore,2025-04-18,-1,Card,0.25,ChristopherPhillips@gmail.com,7516936648,successful
+6259,1819,Karen Martin,105,45000.0,TV,Electronics,online,Hyderabad,2026-01-18,0,UPI,0.1,KarenMartin@yahoo.com,6548979041,successful
+6443,1759,Tamara Carter,101,250000.0,Laptop,Electronics,offline,Hyderabad,2025-04-17,0,Card,0.35,TamaraCarter@outlook.com,6536528655,successful
+6542,1797,Michael Sharp,109,65000.0,Refrigerator,Home Appliances,offline,Mumbai,2025-06-19,-1,Card,0.2,MichaelSharp@yahoo.com,7563063203,successful
+6585,1013,Timothy Butler,101,250000.0,Laptop,Electronics,offline,Bangalore,2025-07-09,-1,NetBanking,0.2,Timothy69@gmail.com,8138922625,successful
+6666,1017,Robert Jones,104,8000.0,Shoes,Clothing,offline,Mumbai,2026-01-18,-1,UPI,0.3,RobertJones@outlook.com,6258927870,successful
+6771,1637,Priscilla Acosta,109,65000.0,Refrigerator,Home Appliances,offline,Mumbai,2025-08-10,-1,Cash,0.4,PriscillaAcosta@gmail.com,8144909452,successful
+6804,1560,Julie Williams,105,45000.0,TV,Electronics,online,Mumbai,2025-09-25,-1,NetBanking,0.3,Julie27@gmail.com,7516009536,successful
+6804,1560,Julie Williams,105,45000.0,TV,Electronics,online,Mumbai,2025-09-25,-1,NetBanking,0.3,Julie27@gmail.com,7516009536,failed
+6889,1352,Susan Johnson,105,45000.0,TV,Electronics,online,Chennai,2026-03-24,-2,Cash,0.35,SusanJohnson@outlook.com,7754830056,successful
+7274,1552,Cynthia Buchanan,104,8000.0,Shoes,Clothing,online,Chennai,2025-07-25,-1,NetBanking,0.25,CynthiaBuchanan@yahoo.com,8116706448,successful
+7531,1424,Karen White,101,250000.0,Laptop,Electronics,offline,Hyderabad,2026-03-24,-2,NetBanking,0.25,Karen80@gmail.com,9793511460,successful
+7536,1066,Linda Bradford,110,45000.0,Microwave,Home Appliances,offline,Hyderabad,2026-01-17,0,Card,0.4,LindaBradford@outlook.com,6191663946,successful
+7539,1406,Preston Baldwin,101,250000.0,Laptop,Electronics,online,Delhi,2025-12-07,-1,Cash,0.3,Preston57@gmail.com,9482530149,successful
+7640,1138,Darren Hall,107,50000.0,Dining Table,Furniture,offline,Hyderabad,2025-03-09,-1,Card,0.4,DarrenHall@outlook.com,7899737394,successful
+7908,1759,Tamara Carter,102,70000.0,Phone,Electronics,online,Hyderabad,2025-10-30,-2,Cash,0.35,TamaraCarter@outlook.com,6536528655,successful
+7944,1353,Tonya Johnson,102,70000.0,Phone,Electronics,online,Delhi,2025-09-15,-2,Card,0.1,Tonya48@gmail.com,9931842216,successful
+7951,1554,Darrell Watson,103,1300.0,Shirt,Clothing,online,Mumbai,2025-10-27,-2,Cash,0.05,DarrellWatson@gmail.com,9492817032,successful
+7951,1554,Darrell Watson,103,1300.0,Shirt,Clothing,online,Mumbai,2025-10-27,-2,Cash,0.05,DarrellWatson@gmail.com,9492817032,failed

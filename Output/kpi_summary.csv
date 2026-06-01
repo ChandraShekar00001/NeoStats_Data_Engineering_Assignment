@@ -1,0 +1,17 @@
+metric,value,category,city
+total_revenue,1233270150.0,,
+total_transactions,8000,,
+total_customers,1963,,
+average_order_value,154158.76875,,
+top_product,Laptop,,
+top_category,Electronics,,
+top_city,Chennai,,
+revenue_by_category,18021900.0,Clothing,
+revenue_by_category,717581250.0,Electronics,
+revenue_by_category,256294000.0,Furniture,
+revenue_by_category,241373000.0,Home Appliances,
+revenue_by_city,226097660.0,,Bangalore
+revenue_by_city,258323770.0,,Chennai
+revenue_by_city,255345590.0,,Delhi
+revenue_by_city,248035365.0,,Hyderabad
+revenue_by_city,245467765.0,,Mumbai
