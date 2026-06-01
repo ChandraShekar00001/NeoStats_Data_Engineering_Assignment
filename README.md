@@ -151,5 +151,3 @@ Expected outputs will be placed in the `Output` folder.
 This project produced a validated, de-duplicated retail dataset and a set of KPIs and Power BI visuals suitable for business reporting. The deduplication step corrected a material revenue overstatement and improved confidence in downstream analytics.
 
 ---
-
-If you need any edits or want me to add a `requirements.txt` or CI script, tell me which format you prefer and I'll add it.
